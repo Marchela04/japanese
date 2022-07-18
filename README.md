@@ -1,0 +1,2 @@
+# japanese
+generator japanese numbers
