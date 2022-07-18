@@ -1,0 +1,1 @@
+#japanease numbers generator
